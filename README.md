@@ -81,3 +81,9 @@ const abdulRaufQasim = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:4FACFE&height=120&section=footer" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulraufqasim/abdulraufqasim/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulraufqasim/abdulraufqasim/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abdulraufqasim/abdulraufqasim/output/github-contribution-grid-snake.svg" />
+</picture>
